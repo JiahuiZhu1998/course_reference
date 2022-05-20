@@ -1,4 +1,4 @@
-# biji-ben 笔记本
+# course_work 笔记本
 An archive of some sketches and notes during my college days, including:
 
 - University of Toronto
